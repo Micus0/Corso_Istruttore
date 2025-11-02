@@ -1,0 +1,235 @@
+# Corso istruttore
+## Psicopedagogia
+
+### Processo di comunicazione
+
+- mettere in comune
+  - far capire agli altri il nostro messaggio
+  - con parole, gesti..
+- scambiare non solo idee, ma emozioni e sensazioni
+- --> importante
+- sia saper comunicare, ma anche ascoltare
+- stakeholder (grazie al cazzo)
+  - emittente
+  - ricevente
+- comunicazione tra istruttore e allievo bidirezionale
+- cosa deve fare
+  - individuare il destinatario
+    - bambino, adulto...
+    - principiante, agonista...
+  - scegliere i mezzi
+  - accertarsi che il destinatario possa raccogliere il messaggio
+  - proporre il messaggio e considerare le possibili interferenze
+- codice verbale/non verbale
+- contesto
+  - piscina tanti elementi di disturbo
+- 2: intelligenza emotiva
+  - intro nel 1990
+    - popolare dopo 5 anni
+  - riconoscere le proprie emozioni
+    - autoconsapevolezza
+  - padroneggiarle
+  - riconoscere quelle altrui
+  - essenziale
+    - essere in relazioni con gli altri
+  - sintesti tra razionalità e vita emotiva
+- 3: insegnamento e apprendimento
+  - insegnamento: atto di fornire conoscenze, info.. agli allievi tramite delle strategie
+    - con lezioni interessanti e coinvolgenti --> stimolare interesse
+      - tenere conto età e caratteristiche
+    - rispettare i tempi in relazione ai limite delle risorse disponibili
+  - --> condizioni adatte per far avvenire l'apprendimento
+  - apprendimento: unione aspetti cognitivi e affettivi, capacità modificare pensieri e comportamenti a seguito ad evento
+    - esperienza importante per l'apprendimento
+    - non solo nuove competenze, ma finalità adattiva
+
+### Seconda parte
+
+- sviluppo cognitivo emotivo ed affettivo
+  - processo dinamico durante il corso della vita
+  - aspetti personalità modificati in base ad aspetti biologici e ambientali
+  - traumi primo anno di vita --> cause comportamenti psichici deviati
+  - [..]
+- costruzione autostima
+  - giudizi valutativi di se stesso
+    - si può costruire giorno dopo giorno
+  - 3 elementi fondamentali:
+    - presenza sistema di autosservarsi --> autoconoscersi
+    - aspetto valutativo
+    - aspetto affettivo --> considerare positivo o negativo gli elementi descritti
+  - non solo individuali, ma anche con l'ambiente in cui vive
+  - processo di autostima due componenti:
+    - il se reale
+    - il se ideale
+    - maggiore discrepanza --> minore stima in noi stessi
+      - tanta autostima --> sapere pregi e difetti...
+      - bassa autostima --> solo debolezze, si arrende più facilmente (soprattutto pareri contrari)
+    - per migliorarla: far conoscere pregi e difetti
+      - modalità autoincoraggiamento
+        - attraverso il gioco importante
+  - --> aiutare bambini a sviluppare talenti e competenze momento fondamentale
+    - tra spinta e protezione
+    - incentivare - proteggerlo da aspettative non realistiche
+      - --> obiettivi didattici da considerarli raggiungibili
+- gestione del singolo e del gruppo
+  - non solo competenze tecniche, ma anche capacità relazionali
+  - didattica attiva individualizzata e nel gruppo
+    - adeguate capacità di attenzione
+  - apprendere secondo propri tempi e ritmi
+  - tipologie allievi molto varie
+    - ma tutti con desiderio di apprendere
+  - adattibilità
+  - didattica varia --> alternanza di stimoli --> per ciascuno parziale adattamento al personale stile di apprendimento
+  - difficile equilibrio tra severità e flessibilità
+
+### Terza parte
+
+- strategie didattiche e clima psicologico
+  - tener conto età, caratteristiche, motivazioni, atteggiamento verso lo sport
+    - risorse allievi
+  - altre due
+    - rispetto per l'allievo
+      - mettersi nei suoi panni e riconoscerne il valore come persona
+       - anche se risultati..
+    - aspetto realizzativo
+      - base motivazionale
+        - desiderio di essere riconosciuto il proprio valore ed essere gratificati
+  - risorse e limiti singoli e gruppo
+  - non solo doti tecniche, ma obiettivi raggiunti, competenze, bravura, miglioramenti, tempo e impegno, puntualità, determinazione
+  - risultati --> faticare e pazienza
+  - comunicazione didattica efficacie
+    - doti e impegno
+    - errore --> critica costruttiva
+    - specifici e chiari
+    - parlare in modo semplice
+    - criticare solo azione e non persona
+  - programmare attività
+    - ogni trimestre obiettivo specifico
+      - attenta analisi livello partenza
+      - passaggi intermedi
+    - promovere autonomia e senso di auto efficacia
+    - clima psicologico di progettualità ma anche di divertimento
+    - chiedere obiettivi e come mai scelta
+  - con adolescienti e adulti
+    - dialogo di spiegazioni tecnico-didattiche
+      - clima condivisione e collaborazione
+        - tutti unici in un gruppo coeso
+        - attenzioni in modo equo ed equilibrato
+    - comunicazione non troppo semplificata come bambini
+      - interessati a pk e finalità e aspetti culturali
+  - tenere conto di avvenimenti sportivi
+  - anche aggiornarsi costantemente su nuove regole
+  - bambini deve essere un gioco
+    - divertimento
+  - regole piscina e regole tecniche
+    - a livello relazionali
+    - e in modo specifico: materiale rimesso apposto etc..
+    - ma non troppe regole
+      - bisogno di sviluppare autostima e senso di autoefficacia
+        - necessario bagagli esperienzale
+    - ma se pochissime regole o zero
+      - forte senso di insicurezza
+      - reagire emotivamente ambiente esterno
+        - allerta permanente: non sanno cosa sia giusto o sbagliato
+    - --> esprimere motrocità spontanea
+      - regole che amplificano spazi e fantasia
+        - solo confini
+- allievo adolesciente
+  - periodo grave instabilità e turbolenza
+  - tempesta ormonale
+    - sperimentare umore alterno e desideri mai provati
+  - dipendono ancora dai genitori ma iniziano a prendere le distanze
+  - inizio:
+    - per le donne: 10-14 anni
+    - maschi: 11-15 anni
+  - finisce oltre 20 anni di età: tarda adolescenza
+  - origine apparato psiconeuroendocrino
+    - tempesta ormonale: trasformazione biologiche e psicologiche
+  - muscolatura: aumenta arti inferiori
+  - cuore e respiratiorio: aumenta --> + processi metabolici
+  - SNC maturazione: perfezionamento coordinazione attività muscolare e capacità logico deduttiva (ragionamento astratto) --> capacità analitica e introspettiva
+    - adolescente trae piacere discussioni spesso cavillose con genitori e figure adulte di riferimento
+      - saper accettare confronto e sfida
+        - grande impegno e pazienza
+  - schema corporeo pre adoloscente
+    - morfologia disarmonica e sgraziata
+      - movimenti goffi e imprecisi
+    - si spezza equilibrio staturo ponderale
+  - cambiamenti adolescente --> causa abbandono precoce
+    - sensazione perdita efficacia
+      - strada da percorrere per riottenerla
+  - aspetto fisico diventa prioritario per adoloscente
+  - primo periodo: maggiore interesse persone dello stesso sesso --> rafforzare identità di genere
+  - dopo: per il sesso opposto
+    - primi intensi innamoramenti e prime dolorose delusioni
+      - impara a comprendere dinamiche vita di coppia
+      - sempre bene prendere sul serio sofferenza fine innamoramento adolescienziale --> potrebbe innescare malessere esteso e profondo
+    - saper ascoltare e comprendere in assenza di giudizio
+    - desiderio di accettazione e approvazione aumenta sensibilità tutto ciò che rappresenta il rifiuto
+  - benefici sport
+    - favorisce corretta immagine corporea
+    - adesione al gruppo dei pari
+    - condivisione valori norme comportamenti e obiettivi
+    - ampliamento di gruppo di riferimento figure adulte
+  - attività natatoria
+    - riscoperta corpo attraverso acqua
+    - [..]
+  - rapp educativo
+    - accettare loro esuberanza e aprire dialogo atteggiamenti non idonei
+    - mostrare apprezzamento per comportamenti rispettosi e diligenti
+      - ma che molti non notano e sottolineano
+  - educazione alla responsabilità
+    - locus of control
+    - se fuori da noi stessi (caso): impotenti, poco efficaci sull'incidere eventi nostra vita
+      - sport facilità empowerment: consapevolezza limiti e risorse --> sviluppo autoefficacia
+  - modelli di riferimento
+    - dare informazione fasi di crescita, cambiamento che stanno affrontando, dare possibilità di soddisfare dubbi --> favorire consapevolezza condivisione esperienze legate al cambiamento
+      - insegnare resilienza: affrontare e superare avversità vita
+        - sport unico modo strutturato
+  - sport agonistico metafora della vita
+    - ogni tipo di difficoltà e doti necessarie per affrontare sconfitte e frustrazione
+- allievo adulto
+  - popolazione anziana progressivo aumento
+  - invecchiamento
+    - apparato sensoriale, respiratorio, cardiocircolare, scheletrico: perdono efficienza
+  - sport differenza
+    - favorisce metabolismo osseo e sviluppo massa scheletrica
+    - diminuire uso analgesici
+    - aumenta riflessi, tono muscolare..
+  - capacità cognitive diminuiscono --> importante resilienza
+  - anziano insicurezze: attacamento abitudini, oggetti, luoghi e persone
+    - abbandonano in modo inconsapevole: dipendenza --> apatia
+      - perdere libertà affidando agli altri la soluzione proprie difficoltà
+  - non solo patologia
+    - met didattiche:
+      - mantere funzionamento ottimale
+  - es fisico: prevezione stress e stile di vita sano
+  - con sport: prendere in mano propria vita
+  - vantaggi
+    - aumenta consumo calorico e metabolismo basale
+    - migliora circolazione
+    - // cardio respiratoria
+    - toni muscoli principali
+    - produzione endogena di oppioidi
+      - in risposta al lavoro muscolare
+    - endorfine aumentano tolleranza dolore, appetito, riducono ansietà (reattività emozionale)
+  - generale sensazione di benessere e rapporto con corpo e ambiente
+  - attività importanti
+    - coordinazione dinamica generale
+    - forza con moderazione
+    - equilibrio
+    - resistenza
+  - rapporto con istruttori
+    - mettersi nei loro panni
+      - essere trattato con una persona di qualche anno in più
+      - pensione inizio isolamento sociale (non più lavoro)
+        - gruppo sportivo scambi sociali
+  - attività
+    - semplici motivanti
+    - con fantasia
+    - no emulativi e competitivi e alto rischio traumatico
+  - grande servizio se socializzazione trasversale
+    - favorendo integrazione con altre fasce di età
+      - grande vantaggio da vitalità ed entusiasmo dei più giovani
+  - giovani adulti uscire da visione competitiva
+    - sport come veicolo di benessere e scambio umano
