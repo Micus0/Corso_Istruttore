@@ -1,0 +1,407 @@
+# Corso Istruttore
+## Primo soccorso
+
+- aiuto alle persone vittime di incidente in attesa del 112
+- compiere gesti semplici e precisi
+  - preservare infortunato ad ulteriori danni
+- emergenza sanitaria vissuta come momento drammatico
+  - manca educazione permamente su cosa bisogna fare
+- cosa fare
+  - sapere
+    - 112
+    - valutare evento
+    - mettersi in sicurezza
+    - manovre salvavita
+  - saper fare
+    - raccogliere info
+    - attuare misure protezione
+      - es guanti se emorragia
+        - non sappiamo condizione clinica infortunato
+    - manovre primo soccorso
+  - saper essere
+    - autocontrollo
+    - rispettare autorità
+- cosa non bisogna mai fare
+  - mettere a repentaglio la propria sicurezza
+  - spostare il paziente
+  - somministrare alcolici o comunque bere
+  - caricare il paziente sulla prima macchina di passaggio e inviarlo in ospendale
+- cosa fare sempre
+  - allertare sistema di emergenza territoriale
+  - mantenere calma e allontanare la folla
+  - cercare di capire la dinamica
+  - praticare il primo soccorso se siamo capaci
+- sistema 112 integrato
+  - numero unico di soccorso sanitario
+  - rete telefonica riservata alla sanità
+  - punti di primo intervento
+  - pronti soccorso/ospedali in rete
+  - obiettivi
+    - ridurre le morti evitabili
+    - diminuire i tassi di invalidità
+    - ridurre la morbilità
+- disturbi della coscienza
+  - consapevolezza di sé e dell'ambiente
+  - alterazioni
+    - lipotimia/pre-sincope
+      - malessere passeggero con senso di svenimento
+    - sincope (svenimento)
+      - perdita di coscienza improvvisa di breve durata con risoluzione spontanea
+      - soggetto debolezza muscolare generalizzata ed è incapace di mantenere la posizione eretta
+  - sintomi:
+    - pallore e sudorazione fredda
+    - visione confusa
+    - vertigini
+    - perdita dell'equilibrio
+    - polso debole
+    - obnubilamento del sensorio
+  - cause (tante):
+    - affaticamento
+    - senza mangiare dormire
+    - troppo tempo ambiente caldo
+    - dolore intenso
+    - emozioni intense
+    - stress
+    - troppo tempo in piedi
+      - guardie reali UK
+    - malattie cuore (es fibrillazione ventricolare)
+    - malattie SNC (es ictus, attacco epilettico)
+    - metabolica
+      - diabetico: ipoglicemia o iperglicemia
+    - malattie polmonari
+  - cosa fare
+    - più pressione sangue al cervello
+    - --> sollevare gambe
+      - 30 cm o 45 gradi
+      - no troppo stretto
+        - non passa sangue
+    - rimuovere indumenti stretti
+      - es quando usavano costumi gommati
+        - alcuni non potevano respirare
+    - non somministrare niente (alcolici, acqua...)
+    - allontanare persone di disturbo
+    - in caso di arresto cardiaco --> iniziare manovre e/o usare defibrillatore
+- epilessia
+  - malattia SNC
+    - gran parte popolazione: 2%
+  - tutte età
+  - impianti sportivi non filtri per soggetti epilettici
+  - sintomi:
+    - grande male
+      - preceduto da aura
+        - segni premonitori: irritabilità, cefalea, ansia, percezione tattile/olfattivo alterate
+      - caduta a terra e perdita di coscienza
+      - scosse tonico/cloniche
+        - convulsioni/contrazione muscoli mimici viso, arti e intero corpo
+        - durata media 1-2 min
+          - segue fase di narcolessia: soggetto cade in un sonno profondo senza poi ricordare niente
+    - aumento temp
+    - piccolo male
+      - perdita percezione ambiente esterno
+      - non risponde alle domande
+      - sguardo fisso nel vuoto
+      - può evolvere in movimenti tonico-clonici
+      - termina con stato di coscienza
+        - ma senza ricordarsi cosa è successo
+    - possibile comparsa:
+      - schiuma alla bocca
+      - morso lingua
+      - perdita involontaria feci ed urina
+  - cause:
+    - natura congentiva del SNC (nasce cosi)
+    - problemi acquisiti
+      - trauma celebrale importante
+      - ictus
+      - aneoplasia (forma tumorale)
+  - cosa fare:
+    - alto impatto emotivo
+      - sembra molto grave
+    - se gestita bene: non ci sono conseguenze
+    - no bloccare scosse tonico-cloniche
+    - evitare che soggetto cade
+      - per non avere lesioni traumaatiche
+    - posizionato di lato in posizione di sicurezza
+    - prendere tempo di inizio per calcolare durata crisi
+    - cuscino sotto la testa
+    - slacciare cravatte cinture
+    - mai lasciarlo da solo
+    - controllare che ci sia polso e respiro
+    - se lingua blocca
+      - manovra iper estensione testa all'indietro
+    - se bambini
+      - genitore magari fornire il farmaco prescitto
+  - non fare
+    - aprire la bocca in maniera forzata
+      - rischiare di essere morso
+    - ne inserire oggetti in bocca
+      - al massimo qualcosa laterale
+    - pericolosi e inutili
+      - lussazioni mandibolari, fratture dentali e dolori muscolari intensi
+      - dita del soccorritore
+    - nb: in alcuni casi cassette pronto soccorso apri bocca
+      - cuneo a spirale che si inserisce in bocca
+        - può provocare fratture incisivi
+          - evitare
+- emorragie
+  - arterie vene....sappiamo già
+  - uno di questi si può rompere
+    - sangue esce
+  - perdita di sangue variabile
+    - 3 gocce non è niente
+    - oltre 10%: shock ipovolemico
+      - abbassamento pressione
+      - arresto cardiaco
+  - evento importate
+    - tempestività
+  - classificazione
+    - esterne
+      - sangue all'esterno
+    - interne
+      - sangue si raccoglie all'interno dell'organismo
+        - cavità naturali/organi/infiltrare tessuti
+      - ematoma/echimosi
+    - interne esteriorizzate
+      - sangue raccolto in cavità e poi esce in orifizi naturali  
+        - es bocca e naso
+    - in base al tipo di vaso
+      - arteriose
+        - rosso vivo/abbondante/pulsante
+        - può essere grave
+        - shok ipovolemico e rischio morte se arterie importanti
+      - venose
+        - più frequenti
+          - più in superfice e pressione più bassa
+        - rosso scuro/lenta/continuo
+      - capillari
+        - meno gravi
+        - vasi piccoli
+        - si arrestano da sole
+        - rosso vivo/istillare intorno alle ferite
+    - miste
+      - vasi scorrono in parallelo ma a profondità diverse
+      - capire che tipo
+        - capire gravità
+        - e comunicare al 112
+  - cosa fare
+    - esterne
+      - comprimere con pacco di garza
+        - sangue non esce
+        - nb: usare guanti
+      - se non basta (no laccio)
+        - appena flusso si riesce a rallentare
+          - bendaggio complessivo
+            - se garze finite, fazzoletti puliti
+      - tranquilizzare soggetto
+        - che non vada in shock (ipovolemico)
+        - applicare ghiaccio sulla ferita
+      - arteriose
+        - rapidi e veloci
+          - perdita sangue importanti
+    - interni
+      - no segni diretti
+      - magari segni
+      - segnali soggetto
+        - pallore
+        - pelle fredda sudata
+        - polso debole e respirazione frequente
+          - da 12/16 atti respiratori a 25/30/40
+            - indice può andare in shock
+      - applicare ghiaccio
+      - se più grave
+        - poco da fare
+        - individuare il problema
+        - chiamare 112
+          - portare in ospedale quanto prima
+      - es trauma addominale
+        - perdita sangue lenta
+          - bisogna prevenire
+        - controllare anche presenza fratture
+
+---
+
+- trauma
+  - distruzione parziale o ottale
+  - limitata capacità rigenerazione
+  - lesioni più grave: tessuto cicatriziale
+- tipi di lesioni
+  - indirette
+    - fattori predisponenti
+      - inadeguato riscaldamento
+      - condizioni climatiche non favorevoli
+      - deficit di elasticità e/o forza; presenza di pregresse lesioni muscolari (degenarzione lesione precedente)
+      - dismorfismi muscolari
+      - disidratazione, squilibri idrosalini, nutrizionali
+      - fatica locale o generale
+      - alterata coordinazione muscolare
+    - trattamento terapeutico
+      - fase 1 (prime 48 ore)
+        - RICE (RestIceCompressionElevation)
+        - FANS (decontratturanti)
+      - fase 2 (dopo 48 ore)
+        - laser CO2 -YAG
+        - ultrasuoni
+        - ionoforesi con eparinoidi
+        - magnetoterapia
+        - ipertermia (dopo 3-4 giornata)
+        - massoterapia (dopo 1 settimana)
+      - fase 3 (importante per non avere ricadute)
+        - recupero elasticità muscolare
+        - rec forza muscolare
+      - fase 4
+        - rec funzionale atleta
+    - crioterapia
+      - uso ghiaccio
+      - attento all'utilizzo (non esagerata)
+        - pacchi ghiaccio e non spray (rischio ustioni da freddo e non effetti duraturi)
+      - vaso costrizione locale
+    - tipi: distrazioni 1, 2, 3 grado
+  - dirette
+    - contusioni superficiali o profonde
+  - sovraccarico (dolore muscolare tardivo)
+    - dopo 3-4 giorni es nuovo
+    - dolori si chiamano DOMS
+- contusione
+  - lesione parete cutanea e muscolari sottostanti
+  - contatto diretto di pressione con corpo estraneo
+    - no rottura parete cutanea
+  - formazione ematoma sottostante
+- distorsione
+  - allontanamento temporaneo capi articolari
+  - può essere complicato da versamento di sangue (emartro) o da frattura
+- si manifestano con
+  - dolore vivo e costante
+  - gonfiore immediato
+  - ecchimosi o ematomi
+- si trattano con
+  - RICE
+- utilizzo ghiaccio
+  - umido (cubetti, frigo..)
+    - costa poco
+    - richiesto un generatore
+  - spray
+    - pericolo e dannoso
+    - usare con prudenza e saputo usare (10-15cm dalla zona)
+    - quando diventa grigia subito smettere
+  - secco
+    - si schiaccia e prodotti chimici
+    - monouso
+    - non da aprire tossici
+- lussazione
+  - allontanamento permanente capi articolari
+  - deformazione anatomica importante
+  - può essere complicata con lesioni arteriose, venose, nervose
+  - cosa fare
+    - fasciare gli arti in pos che si trovano
+    - controllare la circolazione a valle
+    - ghiaccio
+  - cosa non fare
+    - cercare di ridurre manualmente la lussazione
+- fratture
+  - interruzione continuità osseo
+    - causa forza supera resistenza
+  - indice di flessibilità ossa (anche in base età)
+  - si dividono in
+    - composte
+      - senza spostamento dei monconi
+    - scomposte
+      - con spostamento di monconi
+    - aperte
+      - comunica con l'esterno
+        - importante sterilità ambiente (ostiomelite)
+    - chiuse
+      - non comunica con l'esterno
+  - tipi
+    - obliqua
+    - comminuta
+    - spiroide
+    - scomposta
+    - a legno verde
+      - tipica dei bambini
+    - segmentata
+    - trasversa
+    - frattura chiusa
+    - frattura esposta
+  - manifestazione
+    - deformazione parte colpita
+    - gonfiore e dolore intenso
+    - incremento dolore al movimento
+  - trattamento
+    - immobilizzare e riposo
+    - ghiaccio zona interessata
+    - se esposta disinfettare
+    - ivniare al PS per diagnosi in Rx
+  - cosa fare
+    - chiamare 112
+    - non muovere soggetto se non necessario ed immobilizzare arto
+    - tagliare delicatamente i vestiti sopra frattura
+    - tamponare eventuali emorragie
+    - non tentare di riallineare i monconi
+    - non forzare la parte colpita
+- trauma cranico
+  - sonnolenza e disorientamento
+  - fuoriuscita sangue da naso, orecchie, bocca
+  - paralisi lato del corpo
+  - vomito, vertigine, cefalea
+  - cosa fare
+    - monitoraggio situa
+    - caso emorraggia dal cuoio capelluto (ma prob perlopiu se emorragia interna)
+- arresto cardiaco
+  - assenza di coscienza
+  - ass respiro
+  - ass circolo
+    - no misurare polso (se pressione sotto 80 non si sente)
+  - BLS (BasicLifeSupport) (solo con diagnosi di arresto cardio-circolatorio)
+    - seguenza azioni per garantire flusso sangue per rifornire O2 cervello e cuore
+    - prima azioni di valutazioni
+      - azioni invasive
+    - necessario esercitarsi col manichino
+    - solo in caso di necessità
+      - si possono creare danni imp
+  - no iniettare farmaci
+  - rianimazione interrotta quando
+    - arrivo di altri soccorritori
+    - ripristino spontaneo circolo respiro
+    - quando soccorritore sfinito e incapace di continuare
+  - manovre iniziate senza tenere conto di
+    - età apparente
+    - aspetto cadaverico
+    - temperatura corporea
+    - abnorme dilatazione delle pupille
+  - valutazione ambientale
+    - vedere se sicura per noi, paziente e presenti
+    - import usare DPI
+      - guanti in lattice
+      - pocket mask
+      - pallone Ambu
+  - catena soppravvivenza
+    - accesso precoce al 112
+    - precoce BLS
+    - precoce defibrillazione
+    - precoce ACLS
+  - uso DAE in sicurezza
+    - operatore responsabile sicureza
+    - mentre analizza, carica ed eroga scarica nessuno deve toccare paziente
+    - controllo visivo
+    - messaggio verbale (via io, tu e tutti)
+- ostruzione vie aeree
+  - corpo estraneo
+  - aria non passa
+  - arresto respiratorio e poi cardiaco
+  - manovra di Heimlich
+  - effetti
+    - non respira
+    - non parla
+    - non tossisce
+    - si stringe mani con la gola e perde conoscenza in pochi minuti
+  - cosa fare
+    - se respira e tossisce --> 112
+      - incoraggiare a continuare a tossire
+      - non manovre (da parziale può diventare totale)
+    - se no --> 112
+      - posizionarsi sul fianco e dare 5 pacchi da le scapole
+        - se date bene si riesce
+    - inpiedi o seduto
+      - dietro le spalle e le braccia attorno al diaframma spingendo
+    - se perso coscienza --> 112
+      - BLS
+      - dopo 5 insufflazioni anche se non efficaci --> 30 compressioni toraciche --> ritenta altre insufflazioni
