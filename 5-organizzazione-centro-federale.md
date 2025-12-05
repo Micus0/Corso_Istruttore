@@ -1,0 +1,35 @@
+# Corso Istruttore
+## L'organizzazione centro federale
+
+- centro natatorio
+  - impianto sportivo con piscine
+  - come azienda
+- deve avere un organizzazione
+  - divisione lavoro e spartizione
+- parametri pulizia e sicurezza
+- manutenzione
+  - controllo acqua
+- sicurezza: tipologie incidenti da evitare
+  - incidenti bassi ma alta gravità
+- parametri
+  - ph: 6.5-7.5
+  - cloro attivo libero: 7-1.5 mmg/l
+  - cloro combinato non sopra i 4 mmg
+  - temp 24-30 gradi
+- attrezzi presenti
+- divisione spazi (es)
+  - piscina piccola
+    - A prescolare (3) B prescolare (4-5)
+    - C ambientamento
+  - piscina grande
+    - 1A ambientamento acqua fonda - 1B basi del dorso
+    - 2 avviamento all'agonismo
+    - 3 perfezionamento farfalla
+    - 4 perfez rana, basi farfalla
+    - 5 perf crawl, basi rana
+    - 6 perf dorso, basi crawl
+- ordinogramma
+- competenze coordinatore
+- competenze istruttore
+- allenatore
+- reception
