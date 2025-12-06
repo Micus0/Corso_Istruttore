@@ -1,0 +1,32 @@
+# Corso Istruttore
+## Ambientamento e acquaticità
+
+- principalmente bambini/ragazzi
+- ambientamento
+  - fase preliminare all'acquisizione all'apprendimento
+  - stato di rilassamento/benessere all'immersione
+  - uomo non animale acquatico --> paura e diffidenza all'acqua
+  - istruttore entrare in conoscenza con gli allievi (es i loro nomi)
+  - conoscenza con gli spazi
+  - vasca piccola per l'ambientamento
+  - istruttore sempre in acqua (rassicurare e intervenire)
+  - ridurre al possibile spazio libero per l'acqua (controllare il gruppo)
+  - istruttore parlare poco, far muovere molto --> voglia di giocare --> principale motore
+- acquaticità (??)
+  - obiettivi
+    - entrare in acqua
+    - riprodurre schemi motori terrestri
+    - grado di tensione muscolare --> paura dell'acqua
+    - immersione viso
+    - respirare
+      - pressione acqua
+      - inspirare con bocca (con naso inalare acqua)
+      - trattenere aria nei polmoni (anche per galleggiare)
+    - tuffarsi (vasca piccola solo coi piedi)
+    - galleggiare in maniera statica o dinamica (scivolamenti)
+  - iniziare prima possibile conoscenza anche vasca fonda
+    - per non annullare i traguardi (nuove paure)
+    - importante sicurezza
+      - imparare galleggiamento verticale
+      - es di sicurezza
+        - staccarsi dal bordo in pos prona e poi pos verticale e poi tornare al bordo in pos supina (si ripete)

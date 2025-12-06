@@ -1,0 +1,64 @@
+# Corso Istruttore
+## L'uomo e l'acqua
+
+- schemi motori di base si imparano in maniera autonoma
+- in acqua no competenze
+- dividere bambini in base al loro rapp con acqua non età
+- scuola nuoto non solo stili, ma soprattutto abilità acquatiche
+- bambini vengono anche educati
+- scuola nuoto serve anche per gli altri campi
+- vantaggi acqua
+- area intellittivo cognitiva
+- senso percezione
+- aiuta in tutti gli aspetti della vita quotidiana
+- area affettiva emotiva
+- autostima
+- capacità istruttore
+  - teoria
+  - saper fare
+  - saper far fare
+  - [..]
+- nuotare in acqua --> ridurre resistenze e poi propulsione
+- rilassati in acqua
+- costruire azioni motorie
+  - alla base capacità motorie
+    - condizionali (sempre allenabili)
+      - forza
+        - massima
+        - resistente
+        - esplosiva
+      - resistenza
+        - generale
+        - specifica
+      - velocità
+    - coordinative (tra 6-14 anni)
+      - generali
+        - apprendimento
+          - coordinazione grezza
+          - coordinazione fine
+          - disponibilità variabie
+        - controllo
+        - adattamento e trasformazione
+      - speciali
+        - ritmo
+        - orientamento
+        - reazione differenziazione cinestesica
+    - mobilità articolare
+- [...]
+- es mobilità articolare non specifica
+  - solo se movimento ampio??
+- senso percettivi
+- analizzatori
+  - estero-cettivi
+    - acustico
+    - ottico
+    - tattile
+  - proprio-cettivi
+    - analizzatore cinestesico/motorio (param parti del corpo in movimento)
+    - vestibolare (statico/dinamico) (equilibrio) (rapportare testa in altre parti)
+      - dentro l'orecchio
+- 6-14 fase migliore per apprendimento
+- schema di martin
+  - in base all'età quali capacità lavorare
+  - dopo 14 ha piu senso su capacità condizionali
+- se capacità e voglia --> attività agonistica

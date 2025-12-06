@@ -1,0 +1,79 @@
+# Corso Istruttore
+## Galleggiamenti, spostamenti, posture, propulsioni
+
+- 4.9
+- fase ambientamento (scuola di educazione acquatica) --> apprendimento tecnico (scuola nuoto) --> agonismo
+  - mancanza schemi motori base --> necessità costruzione presupposti per agevolare apprendimento tecnico
+- --> scuola educazione acquatica essenziale
+- proposte esperienze (non esercizi)
+- qualità tecnica focus dopo che proseguirà il percorso
+- **acquaticità non fase ma attidutine**
+  - inizia in fase di ambientamento e poi **non finisce mai**
+  - nel muoversi in acqua (sopra e sotto)
+- centro di gravità e galleggiamento
+  - pos anche per non rallentare il movimento
+  - se si sovrappongono: gambe vanno a fondo
+- 3 masse critiche
+  - testa, torso, gambe
+  - allineate: galleggiamento, riducono resistenza ed equilibrio
+    - es braccia usate non per andare avanti, ma bilanciarsi
+  - testa imp
+    - nel bambino rapp molto alto
+    - es testa alta: fianchi bassi
+    - collo dietro no pieghe (in linea col corpo)
+    - collo lungo (rilassato non retratto)
+      - si può far vedere anche fuori dall'acqua
+- respirazione imp
+  - autonoma dinamica (respir-azione)
+    - incide con l'apprendimento tecnico
+  - esercizi
+- fattori limitanti breve-lungo termine
+  - precocità didattica (es prima di esperienze)
+  - precocità aspetto meccanico (prima dei presupposti acquatici)
+    - sommatorio di micromovimenti adattativi
+    - col tempo da micro diventa macro e si amplificano
+- nuoto locomozione umana più lenta in assoluto
+- costruzione nuotata
+  - togliere non aggiungere
+  - lasciare solo quello che è essenziale: base solida per lavorare sui dettagli
+- struttura di base
+  - posizione corpo in acqua
+  - continuità (no es con pause)
+  - ampiezza movimento
+  - traiettoria (vicina al corpo) (limiti di tolleranza  e variabili soggettive)
+  - accoppiamento movimenti
+- evitare semplici movimenti, ma azione motoria con obiettivo di avanzamento
+  - capisce esercizio e comprende scopo
+  - elabora strategia
+  - elabora tentativi/esegue movimento
+- no solo replicare movimento, ma scopo essenziale per applicare il movimento all'avanzamento (no solo girare le braccia, ma anche prendere acqua)
+- partire dai contenuti e poi forma (no coreografia)
+- controllo regolazione gesto
+  - indicazioni per autoregolare il gesto --> autoapprendimento guidato (no correzioni dall'istruttore) (apprendere non addestrare)
+- visione corpo
+  - prima settoriale: braccia e gambe (torso inifluente)
+  - ora intera: corpo incide
+    - trasmette la forza (dal nucleo) (inside-out: da interno ad esterno)
+- apprendere movimento semplice che diventa ancora più semplice (ripetere-ripetere)
+  - ricerca del nuovo nello stesso
+- movimento
+  - flesso-distensione
+  - circolari e rettilinei
+  - accelerazioni e decellerazioni (presa e trazione lenta) (spinta veloce)
+    - sottolineare non approfondire nella scuola nuoto
+  - rollio e ondulazione corpo
+- efficienza nuotate
+  - stile + veloce
+  - farfalla e dorso simile
+  - rana - veloce (pos corpo con + attrito e mancano elementi)
+- timing nuotate
+  - accoppiamento movimenti
+- funzione battuta gambe triplice valenza
+  - stabilizzante
+  - galleggiante
+  - propulsiva (diventerà meno di rilievo come all'inizio, non più motore principale)
+- quinto stile
+  - sott'acqua
+  - in vasca corta 60%
+  - in tutte le nuotate
+  - scivoli, galleggiamenti...tante situazioni
