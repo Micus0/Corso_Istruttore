@@ -3,7 +3,7 @@
 
 - dal 4.12/4.16
 
-### Stile libero
+### Stile libero crawl
 
 Intro
 - asimmetrica
@@ -18,7 +18,7 @@ Intro
 - 3 ritmi da mettere insieme
 - ...
 
-Braccia
+Bracciata
 - fase aerea passiva
   - recupero
 - fase subacquea attiva
@@ -46,3 +46,80 @@ Braccia
   - teso
     - princ ad alta velocità
   - imp non contrazione (ristoro muscolare)
+
+Rollio
+- gambata obliqua/legg laterale
+- testa rimane in asse
+- torso si muove
+- concetto di inside out
+- c'è chi enfatizza un po' troppo: instabilità corpo
+  - gambe e braccia intervengono (sbagliato)
+
+Gambata
+- fase discendente
+  - attiva
+  - contratto
+  - veloce
+- fase ascendente
+  - passiva
+  - decontratto
+  - lento
+- c'è chi contrae anche fase ascendente
+  - non vanno avanti (uno compensa l'altro)
+- c'è chi va indietro per mancata distensione del piede (adulti)
+  - contrarre/decontrarre muscolatura
+- 6 colpi per ciclo di bracciata (può variare)
+  - si può perdere con l'avanzare del percorso (per risparmiare)
+  - sempre rapp uguale a qualsiasi regime
+- galleggiante/stabilizzante/propulsiva(col tempo di meno)
+
+
+### Dorso
+
+Intro (tante cose in comune con crawl)
+- pos supina
+- asimmetrica
+- buon rendimento meccanico
+- pos idrodinamica
+- resp non sott'acqua (anche se ritmica)
+- buona stabilità in acqua
+- rollio
+- tollera qualche sbavatura
+- nuotata cieca
+  - tutto tramite analizzatore cinestesico
+  - istruttore diventa gli occhi dell'allievo
+- continuità movimenti
+- ...
+
+Bracciata
+- fase aerea (passiva)
+  - recupero
+- fase subacquea (attiva)
+  - presa
+    - presa inizia più in profondità rispetto a crawl
+  - trazione
+  - spinta
+- movimento alternato
+- stesse accelerazioni di prima
+- dopo spinta, recupero inizia in profondità
+
+Respirazione
+- con la bocca
+- alcuni più evoluti tappa naso
+- coord un rapp sul ciclo di bracciata
+  - in maniera ritmica
+
+Rollio
+- uguale al crawl
+
+Gambata
+- fase ascendente
+  - attiva
+  - contratto
+  - veloce
+- fase discendente
+  - passiva
+  - decontratto
+  - lento
+- stessi prob nel caso
+
