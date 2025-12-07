@@ -47,6 +47,11 @@ Bracciata
     - princ ad alta velocità
   - imp non contrazione (ristoro muscolare)
 
+Respirazione
+- inspira durante recupero
+- espira durante fase attiva
+- rapp con i cicli variabile (es 2/3/4)
+
 Rollio
 - gambata obliqua/legg laterale
 - testa rimane in asse
@@ -123,3 +128,113 @@ Gambata
   - lento
 - stessi prob nel caso
 
+### Delfinizzazione (no stile)
+
+Intro
+- onda
+- fin da subito: no grosse valenze coordinative
+- pos orizzontale
+- parte dal torace e trasmesso al resto
+- due masse critiche: testa e torace
+  - creano onda che trasmessa alla terza le gambe
+
+
+### Aspetti comuni rana e farfalla
+
+- pos corpo acqua
+- intervento busto (lieve movimeto ondulatorio)
+- nuotata farfalla deriva dalla rana
+- movimento flesso-distensione
+- simmetria e simultaneità
+- presenza movimenti circolari
+- ps y nela fase di appoggio (ascella aperta)
+- elevate difficoltà coordinative
+- ricerca stabilità corpo in acqua
+- insegnate seconda parte scuola nuoto (mettere insieme il tutto, alcuni elementi si possono vedere anche prima)
+- apprendimento una propedeutico all'altra
+
+### Rana
+
+Intro
+- elementi in comune
+- simmetrica
+- mov simultaneo arti
+- coord sovrana --> non tollera errori
+- basso rendimento meccanico
+- insegnata fine scuola nuoto
+- interferenza movimenti
+- mov circolari braccia-gambe
+- pause scivolamento
+- pos poco idrodinamica
+- instabilità in acqua
+- non concilia con altre nuotate
+- gambe medesima funzione braccia
+- recupero subacqueo-silenziosa
+- meno bravi ad insegnara? (meno esperti in generale)
+  - ma importante da insegnare (soprattutto gambata)
+- difficile autoregolazione
+- manipolazione richiesta per l'allievo: far sentire fisicamente il movimento
+- ...
+
+Bracciata
+- recupero in superficie (non completamente aerea)
+- manca la spinta (saranno poi le gambe)
+- pos y mani non vanno fuori dal campo visivo --> sotto il corpo
+
+Gambata
+- timing ben distinto
+- recupero gambe (lento)
+- extraruoto piedi (più larghe delle ginocchia) (molto importante)
+- frustata verso in basso/dietro (veloce)
+- mov simultaneo
+- propulsiva (spinta) (almeno il 50%) (alcuni 40 o 60)
+- galleggiante
+- stabilizzazione
+- gambe spingono quando siamo in streamline (braccia distese) (minor attrito)
+
+Respirazione
+- rapp 1/1 con tutto
+- bracciata --> respirazione --> gambata
+
+### Farfalla
+
+Intro
+- cose in comune
+- simmetrica
+- coord sovrana
+- alto rendimento meccanico
+- dispendiosa ma efficace (soprattutto fase apprendimento)
+- ultimo stile della didattica
+- pos idrodinamica
+- instabilità in acqua se non supportata dal corpo
+- presenza dell'ondulazione del corpo
+- nuotata che non tollera micro-errori
+- mov simultaneo arti
+- difficile autoregolazione
+- non tanta forza, solo applicarla nel modo corretto
+- ...
+
+Bracciata
+- fase aerea passiva
+  - recupero
+- fase subacquea attiva
+  - presa
+  - trazione
+  - spinta
+- uguale...
+- mov tuttuno (come sempre...)
+
+Gambata
+- galleggiante
+- stabilizzante
+- propulsiva (meno)
+- 2 gambate
+  - su spinta con testa che si alza legg: galleggiante/stabilizzante (facoltativa)
+  - fine recupero: propulsiva
+
+Respirazione
+- mov non troppo delfino
+  - ridurre resistenza
+  - alcuni addirittura resp laterale per diminuire abbassamento fianchi
+  - più vicino allo stile libero che delfino
+- avanti alto
