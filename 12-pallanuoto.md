@@ -1,3 +1,64 @@
 # Corso Istruttore
 ## Pallanuoto in corsia
 
+- utilità
+  - creare squadre o atleti per la pallavolo
+  - più schemi motori
+  - ottimizzazione spazi acqua
+  - potenziamento fondamentali gioco (livello superiore) (livello individuale)
+- schemi motori base terra ferma si usano anche nella pallanuoto
+- schemi
+  - corporeo
+  - motorio
+  - base: camminare, correre, rotolare, arrampicare, lanciare, saltare, afferrare
+  - speciali
+- [..]
+- coordinazione in acqua
+  - esatta esecuzione di un'esatta immagine motoria
+  - dipende quantità/qualità esperienze motorie
+  - precocità esp
+  - corretto sviluppo capacità condizionali
+- strutturazione schemi motori base acquatici
+  - imp galleggiamento verticale
+  - pass autonomo tra tipi di galleggiamento
+  - avvitamenti e cambi di direzione gallegg
+  - coord spaziale
+- costr settore preagonistica: organizzazione
+  - utilizzo vasca 25 per 12.5
+  - gruppi 21 ragazzi (7 per corsia)
+  - attività fuori dall'acqua
+  - 1.45 45 di attività a secco
+  - stimolazioni alla partita anche in corsia
+- contenuti tecnici
+  - fondamentali senza palla
+    - nuotate orizzontali testa alta: crawl, dorso, trugio
+    - arresti avvitamenti cambi di direzione
+    - nuotate verticali
+  - fond con palla
+    - presa e tenuta verticale
+    - impost palleggio e passaggio
+    - impost tiro verticale e orizzontale
+  - gallegg 50% vert e 50% orizzontale
+- predisposizione per costr
+  - utilizzo content base con progressiva acquisizione schemi motori acquatici speciali
+  - cambi di assetto direzione, ...
+  - utilizzo palla stimolazione coord spazio-temporale
+- utilizzo porte anche in una corsia
+- utilizzo strumenti/dimensioni diversi
+- creare più campetti in corsia
+- costr settore amatoriale
+  - vasca divisione stessa
+  - 30 ragazzi tra 13-18 anni
+  - due volte a settimana
+  - tornei
+- costr settore agonistico
+  - vasca stessa
+  - spazio all'aperto attrezzati a secco
+  - 60 ragazzi tra 11-16
+  - 4 allenatori (compiti di coordinamento e due prep a secco)
+  - allenamenti a secco e in acqua sempre
+  - 60 ragazzi divisi in sottogruppi
+- esercitazioni in corsia importanti (mario majoni '60)
+- combinazione mov
+- tecnica come comportamento tattico
+- es uno vs uno

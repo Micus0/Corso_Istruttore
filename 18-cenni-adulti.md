@@ -1,0 +1,44 @@
+# Corso Istruttore
+## Cenni di attività adulti terza e quarta età
+
+- occidente sta invecchiando
+- regressione capacità motorie
+- salute importante (paura di peggioramento)
+- prevenzione
+  - metabolica
+  - strutturale
+  - motoria
+- indice autonomia
+- speranza di vita 80, ma di buona salute 58
+- pensare a programmare il futuro dei nostri allievi
+- capacità motorie correlate alla salute
+  - resistenza aerobica
+  - resi muscolare
+  - mobilità articolare
+  - equilibrio
+- differenze tra
+  - adulti
+    - salute
+    - socialità
+    - discontinuità
+    - tecnica
+    - allenamento
+  - over 65
+    - salute
+    - socialità
+    - continuità
+    - autostima
+    - senso critico
+- catturare fiducia
+  - tante paure
+- che attività
+  - adulti
+    - scuola nuoto
+    - fitness in acqua
+    - nuoto libero
+    - pause pranzo o sera
+  - over 65
+    - attività motoria adattata
+    - non solo nuoto
+    - organizzare attività extra vasca (gite, cultura, vacanze...)
+    - mattina presto

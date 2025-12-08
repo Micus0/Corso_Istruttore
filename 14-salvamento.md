@@ -1,0 +1,43 @@
+# Corso Istruttore
+## Nuoto per salvamento in corsia
+
+- quinta disciplina sportiva della FIN
+- non acnora olimpica
+- piscina e mare
+- diversi tipi di gare
+  - nuotate in corsia con utilizzo di attrezzi
+- partono dallo stile libero
+- gare oceaniche
+  - prove sulla spiaggia
+  - di nuoto
+  - a secco
+  - miste
+- modello funzionale
+  - psicologico
+    - motivato a certa quantità di lavoro
+  - tecnico-coordinativo
+    - gare in piscina: tecnica natatoria strettamente legata al crawl fino al trudgeon
+    - in oceano: anche varianti che identificano nuoto in acque libere
+  - fisico-condizionale
+    - efficienza metabolica apparati in relazione meccanismi energetici
+- scuola di salvamento in corsia non tanto presente
+  - non ci sono spazi sufficienti
+- attrezzi
+  - manichino
+  - ostacoli
+  - torpedo: trasportare manichino
+  - pinne
+- [..]
+- corso
+  - iniziare dopo aver completato tutti i livelli della scuola nuoto
+  - può anche essere legg anticipato
+  - fasi
+    - 1: ricerca di allievi per partecipare (due allenamneti 40/45 min)
+    - 2: trudgeon e over, gruppi speciali (fino 4/5 a week, 60/90 min)
+    - 3: ???
+- programmi
+  - cose già viste
+- [..]
+- fondamentali salvamento (tanto dalla pallanuoto)
+- [..]
+- in aggiunta prese

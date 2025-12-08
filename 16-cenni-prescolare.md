@@ -1,0 +1,84 @@
+# Corso Istruttore
+## Cenni di attività prescolare
+
+- difficoltà iniziale per i genitori scegliere corso
+- tanto bambino vuole muoversi
+- importante che si divertano
+- tra i 3 e i 6 anni
+- forte motivazione allo sport
+- cosa sa fare un bambino di 3.5 anni
+  - motorio
+    - salta e riesce a stare su un piede solo per qualche secondo
+    - afferrare palla al volo
+    - manipolare il proprio cibo in modo abbastanza corretto
+    - comincia usare bene le forbici
+  - relazione cognitivo
+    - piacere cose nuove
+    - gioca a "mamma e papà"
+    - inventiva in giochi di immaginazione
+    - non distingue sempre realtà dalla fantasia
+    - giocare con gli altri bambini
+    - contare --> idea di tempo
+    - anticipa eventi storia che conosce
+    - presta attenzione al racconto
+- cosa sa fare un bambino di 5-6 anni
+  - motorio
+    - impara a riconoscere e denominare varie parti corpo su di sé e sugli altri: rielaborazione da organi di senso
+    - ottimo senso equilibrio
+    - dimostra crescente destrezza giochi con palla
+  - relazione cognitivo
+    - fase pensiero intuitivo
+    - inizia a comprendere spiegare controllare mondo circostante
+    - distinguire fantasia realtà
+    - aumenta curiosità per differenze
+    - migliora capacità collab e seguire regole
+    - disegna figura umana con maggiori dettagli
+    - migliora comprensione combinazione forme, colori e sequenze
+- corsi
+  - obiettivi sviluppo motorio e psicologico
+    - conoscenza ambiente piscina e acqua
+    - adattamento schemi motori terresti all'ambiente acquatico
+    - creazione nuovi schemi motori acquatici
+    - rafforzamento autonomia personale
+  - 30/40 min con rapp da 1 a 6
+  - percorso inizia con entrare in piscina
+- istruttore
+  - in acqua con i bambini
+  - figura adulta che sostituisce genitore nell'arco lezione
+  - entrare nel mondo infantile
+    - preparato
+    - divertente
+    - spiegazioni semplici
+  - sapere contenuto cartoni e attività dei bambini
+  - buon osservatore
+  - 3 elementi chiave
+    - gioco
+      - non mero passatempo: esprimere creatività...cimentarsi in nuove conquiste --> + autostima
+      - diritto
+      - tappe del gioco (in base all'età)
+        - senso motorio
+        - finzione
+        - elaborazione oggetti
+        - **simbolico**
+        - **sociodrammatico**
+        - **di ruolo**
+        - **con le regole**
+    - fabulazione
+    - imitazione
+  - elementi uniti
+- giocattoli imp
+  - funzioni fantasiose (tappetto diventa barca)
+- hanno le paure
+  - sostenuti e compresi
+- altra forma di apprendimento: imitazione
+- prove di autonomia
+  - con vasca piccola
+  - in modo programmato gite in vasca grande
+  - attenzione al passaggio brusco
+    - può rovinare settimane/mesi di ambientamento
+- lezione
+  - accoglienza
+  - giochiamo ad imparare
+  - saluto
+- alla base fantasia
+  - nasce spontaneamente al bambino

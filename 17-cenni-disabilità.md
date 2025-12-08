@@ -1,0 +1,93 @@
+# Corso Istruttore
+## Cenni di attività per persone con disabilità
+
+- def disabilità
+  - 10% forma di disabilità
+  - non mondo a parte, ma una parte del mondo
+  - piscina per tutti: accoglienza ad ogni diversità
+  - --> necessità costituire comunità professionista e professionale
+    - valutare globalmente potenzialità non cosa non so fare
+    - tanta disinformazione
+  - classificazione presente (ICF)
+  - nuove def attenzione sulle risorese e abilità di un soggetto
+  - da menomazione, disabilità e handicap
+    - abilità residue
+    - livello di partecipazione
+    - fattori ambientali
+  - condizione di salute iin un ambiente per alcuni fattori sfavorevole
+    - contesto in base a
+      - barriere
+      - facilitatori
+  - da prospettiva medico-sanitaria a bio-psico-sociale
+  - largo margine agli attori del progetto di vita dell'allievo
+  - superare stereotipi
+  - classificazione non etichetta
+    - persona disabile --> diversamente abile --> persona con disabilità
+- tipologie allievi disabilità in acqua
+  - permanenti
+    - spinali
+    - cerebrolesi
+    - spasticitò
+    - intellittiva
+    - focomelia
+    - epilessia
+    - distrofia muscolare
+    - amputazioni
+    - sclerosi multipla
+    - cecità
+    - sordità
+    - malattie cromosomiche
+    - disturbi spettro autistico
+    - disturbi comportamento dsa
+  - temporanea dopo
+    - malattie debilitanti
+    - intervento chirurgico
+    - trauma ortopedico
+  - nuove disabilità
+    - sindrome ipocinetica
+    - obesità
+    - perdita autosufficienza
+    - senescenza
+- lezioni
+  - tempistica
+    - quantitativamente breve, qualitativamente impattante
+  - tipologia: rapp 1/1, rapp 1/2, piccolo gruppo, grande gruppo
+    - in rapporto al tipo di attività e tipo disabilità
+    - prima lezione meglio 1/1 (discorso anche di ambientamento)
+  - disabilità intellettiva più problematiche
+    - differenze modalità apprendimento e relazione
+    - rapp sociale diverso
+  - obiettivo inclusione sociale (tanti anni richiesti)
+  - ambientamento imp
+- effetti dell'acqua corpo immerso
+  - spinta di galleggiamento
+  - pressione idrostatica
+  - resistenza all'avanzamento
+  - es persone deambulatorio (possono muoversi)
+  - acqua facilità certi movimenti che a terra sarebbero impossibili
+- ambientamento
+  - imp contatto fisico e sociale
+  - imp entrata in relazione
+  - imp temp acqua
+  - ruolo corretta logistica
+  - ruolo sussidi didattici
+  - ruolo disincentivi
+  - differenziazione didattica e tecnica in base alla tipologia di menomazione o disabilità
+- da oggetto riabilitazione a soggetto azione
+  - corpo di attenzione
+  - corpo di intenzione
+  - corpo di relazione
+  - persona disabile è prima una persona poi ha una patologia che rapp solo una parte di sé
+- caratteristiche istruttore
+  - contempla potenzialità residue positive individuo
+  - sempre in aggiornamento
+  - contribuire progetto di vita --> verso integrazione
+  - miglior speranza di vita
+  - capacità relazionali
+  - cassetta degli attrezzi di competenze conoscenze ed abilità
+- obiettivi generali possibili
+  - autonomia come equilibrio adattamento sociale e propria capacità iniziativa
+  - autorealizzazione e autoefficacia
+  - performance
+- caratteristiche corso di nuoto per persone con disabilità
+- conclusioni

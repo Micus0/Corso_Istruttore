@@ -1,0 +1,62 @@
+# Corso Istruttore
+## Nuoto artistico in corsia
+
+- contiene
+  - disciplina natatoria
+  - tecnico-compositoria
+  - artistico espressiva
+  - con matrici nella danza, ginnastica ritmica, artisica e acrobatica e tuffi
+- elementi base
+  - nuotate
+  - gambate
+  - remate
+  - pos base
+  - mov base
+- nuotate
+  - attingono alle tecniche di base
+  - ma assetto verticalizzato
+    - testa fuori
+    - gambata in immersione
+    - bracciata con fase aerea variata e scopo artistico espressivo
+      - no fare schiuma/rompere superficie acqua se non fa parte della coreografia
+- bicicletta e sgambata
+  - frequenza elevata
+  - completa stabilità e fermezza
+  - cura postura busto eretto in massima estensione e capo elevato
+  - per muovere le braccia
+  - in tutte le direzioni
+- remate
+  - di stazionamento
+  - di testa
+  - di piedi
+  - differenza flessione a livello del polso
+- posizioni
+  - subina
+  - tub: cosce raccolte perpendicolari alla superficie e angolo di 90 con ginocchia
+  - tuk: massima raccolta cosce
+  - vela: da supino una gamba flessa e perpendicolare alla superficie con bacino vicino alla superficie
+    - dovrebbe comparire un triangolino sotto il ginocchio
+  - gamba di balletto: da supino una gamba fuori dall'acqua e corpo massima estensione e bacino vicino alla superficie
+- [..]
+
+---
+
+- imp di
+  - nuoto artistico e capacità motorie
+  - attività in corsia
+  - pos base ed equilibramento
+  - verso tenuta e controllo
+  - respirazione
+  - utilizzo spazio
+  - ritmo e sincronismo
+  - espressione artistica
+- proporre nuotate trad e variazioni
+- per bicicletta
+  - supporti o giochi per far capire il movimento
+- diversificare attività
+- respirazioni
+- creazione percorsi: sperimentare utilizzo spazio in modo diverso
+- tutto può essere gestito dal ritmo
+- espressione artistica lavoro sulla sensibilizzazione della persone e percezione emotiva
+  - nuotare in base all'emozioni
+  - libertà di esprimersi

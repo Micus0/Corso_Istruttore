@@ -1,0 +1,72 @@
+# Corso Istruttore
+## Cenni di attività per gestanti
+
+- gravidanza
+  - fatto fisiologico con
+    - strumenti psico-fisici adatti
+    - periodo dove si riguadagna
+    - rapporto con se stessa e il nascituro
+- acqua prevenire possibili problematiche
+- tanti studi dietro
+- pro
+  - meno dolore
+  - durata travaglio inferiore
+- interesse fin
+  - svolta senza nozioni specifiche e senza finalizzazioni es
+- diverse
+  - prima parte: paura di come sarà la situazione
+  - seconda parte: in sintonia con il feto, stimolata in acqua
+  - terza parte: ansia, insofferenza, stanchezza
+- altri pro
+  - socializzare con donne stessa situa
+  - massaggiare cullare il corpo modificato della donna
+  - acquistare relax e benessere mentale sfera psichica
+  - scaricare energie negative
+  - nascondere corpo, sensazione movimento e privacy
+- pro
+  - tono muscolare
+  - previene gonfiori e pesantezze arti inferiori
+  - previene rischi traumi
+  - peso sotto controllo
+  - migliore tolleranza sforzo
+  - incremento ritorno venoso
+  - increm capacità inspiratoria frequenza respiro
+  - aumento diuresi e natruiresi
+  - rapida espazione volume plastico
+  - no variazione p. a. con posizione
+  - riduzione peso addominale sul rachide e arti inferiori
+  - controllo resp
+  - miglior acquaticità individuale (parto in acqua)
+  - emozioni positive dovute superamento esperienze nuove e divertenti
+- disturbi più comuni
+  - lombalgia
+  - crampi muscolari
+  - edemi arti inferiori (varici)
+  - perdite vaginali di sangue
+  - infezioni vaginali
+  - contrazioni uterine
+  - ipertensione
+  - problemi crescita fetale
+  - diabete materno
+- finalità
+  - migliore tonicità muscolare
+  - controllo e consapevolezza resp
+  - sviluppo propriocezione per consapevolezza mov
+  - percezione bacino
+  - controllo motorio settoriale
+  - cura trombosi venose e stasi linfatica
+- programmazione
+  - lavoro continuo aerobico globale
+  - es rilassamento progressivo settoriale
+  - es mobilizzazione bacino 
+  - es controllo resp
+  - es stretching
+  - es al bordo
+  - es su tapis roulant
+- sapere la storia da gestante per capire che es fare
+- elementi utili al tecnico
+  - avvicinarsi in prima persona
+  - aggiornamento continuo attrav corsi di specializzazione
+  - imparare da ogni tipo di esperienza
+  - essere sempre disponibili
+  - buonumore per rendere la lezione utile ma anche rilassante e piacevole
